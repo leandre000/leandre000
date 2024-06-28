@@ -4,12 +4,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Blockchain+Developer;Web3.0+Application+Developer;Rust+System+Developer;UI/UX+Designer;Relational+Databases+Developer;React+Frontend+Developer;Forex+Trader;Gamer; )](https://git.io/typing-svg)
 
 
-<------------------------------------------>
+------------------------------------------
 
 ![Leandre000's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leandre000&custom_title=Activity%20Graph&hide_border=true&theme=gotham)
 
 
-<--------------------------------------------->
+---------------------------------------------
 <p align="left">
   
 <a href="https://instagram.com/_leandre10_" rel="noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leandre/" height="20" width="30" /></a>
