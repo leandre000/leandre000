@@ -20,4 +20,4 @@
 <a href="https://discord.com/users/leandre000" rel="noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="000" height="20" width="30" /></a>
 </p>
 
-[My portifolio](https://shemaleandre.vercel.com)
+[My portifolio](https://shemaleandre.vercel.app)
