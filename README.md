@@ -4,10 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Blockchain+Developer;Spring+Application+Developer;Java+System+Developer;UI/UX+Designer;Relational+Databases+Developer;React+Frontend+Developer;Forex+Trader;Gamer; )](https://git.io/typing-svg)
 
 
-------------------------------------------
-
-![Leandre000's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leandre000&custom_title=Activity%20Graph&hide_border=true&theme=gotham)
-
 
 ---------------------------------------------
 <p align="left">
