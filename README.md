@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m @leandre000
 
 **Currently Interested in**
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Blockchain+Developer;Spring+Application+Developer;Java+System+Developer;UI/UX+Designer;Relational+Databases+Developer;React+Frontend+Developer;Forex+Trader;Gamer; )](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Spring+Application+Developer;Java+System+Developer;UI/UX+Designer;Relational+Databases+Developer;React+Frontend+Developer;Forex+Trader;Gamer; )](https://git.io/typing-svg)
 
 
 
