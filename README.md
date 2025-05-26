@@ -1,5 +1,5 @@
   <p align="center">
-  <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png">
+ 
 </p>
 <h1 align="center">Hi, I'm Shema Leandre<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 font-size="20" align="center">A passionate backend developer and a student from Rwanda.</h3>
@@ -17,7 +17,7 @@
 <p>👨‍💻 All of my projects are available <a href="github.com/leandre000">@leandre000</a></p>
 </li>
 <li>
-<p>💬 Ask me about <strong>System Codes and Football 😆</strong></p>
+<p>💬 Ask me about <strong> Coding and Football 😆</strong></p>
 </li>
 <li>
 <p>⚡ Fun fact <strong>Coding is a passion and not profession.</strong></p>
