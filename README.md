@@ -51,15 +51,11 @@
       <a href="https://getbootstrap.com" target="_blank">
     <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="bootstrap">
   </a>
-  <a href="https://babeljs.io/" target="_blank">
-    <img src="https://img.shields.io/badge/babel-F9DC3E.svg?style=for-the-badge&amp;logo=babel&amp;logoColor=black" alt="babel"> 
-  </a>
+ 
   <a href="https://bulma.io/" target="_blank">
     <img src="https://img.shields.io/badge/bulma-00D1B2.svg?style=for-the-badge&amp;logo=bulma&amp;logoColor=white" alt="bulma">
   </a>
-  <a href="https://www.gatsbyjs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/gatsbyjs-663399.svg?style=for-the-badge&amp;logo=gatsby&amp;logoColor=white" alt="gatsby">
-  </a>
+ 
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&amp;logo=react&amp;logoColor=black" alt="react"> 
   </a>
@@ -95,9 +91,7 @@
   <a href="https://kubernetes.io" target="_blank"> 
     <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white" alt="kubernetes">
   </a>
-  <a href="https://www.nginx.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&amp;logo=nginx&amp;logoColor=white" alt="nginx"> 
-  </a> 
+ 
 </p>
 <h3 align="center">Database</h3>
 <p align="center">
@@ -120,9 +114,7 @@
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&amp;logo=firebase&amp;logoColor=black" alt="firebase">
   </a>
-  <a href="https://netlify.com/" target="_blank">
-    <img src="https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&amp;logo=netlify&amp;logoColor=black" alt="firebase">
-  </a>
+ 
   <a href="https://heroku.com" target="_blank"> 
     <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&amp;logo=heroku&amp;logoColor=white" alt="heroku"> 
   </a> 
@@ -147,9 +139,7 @@
     <a href="https://www.docker.com/" target="_blank">
     <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="docker">
   </a>
-  <a href="https://www.jenkins.io" target="_blank"> 
-    <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&amp;logo=jenkins&amp;logoColor=white" alt="jenkins"> 
-  </a>
+ 
 </p>
 <h3 align="center">Preferred IDEs  &amp; Tools :</h3>
 <p align="center"> 
