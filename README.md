@@ -65,9 +65,7 @@
   <a href="https://jquery.com/" target="_blank">
     <img src="https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&amp;logo=jquery&amp;logoColor=white" alt="jquery"> 
   </a>
-  <a href="https://webpack.js.org" target="_blank">
-    <img src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&amp;logo=webpack&amp;logoColor=black" alt="webpack">
-  </a>
+ 
 </p>
 <h3 align="center">Backend</h3>
 <p align="center">
@@ -82,9 +80,7 @@
     <a href="https://spring.io/" target="_blank"> 
       <img src="https://img.shields.io/badge/spring%20IOC-6DB33F.svg?style=for-the-badge&amp;logo=spring&amp;logoColor=white" alt="spring"> 
   </a>
-  <a href="https://spring.io/" target="_blank"> 
-    <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" alt="spring Boot"> 
-  </a>
+  
   <a href="https://graphql.org" target="_blank">
     <img src="https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&amp;logo=graphql&amp;logoColor=white" alt="graphql">
   </a>
@@ -98,9 +94,7 @@
   <a href="https://www.postgresql.org" target="_blank"> 
     <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="postgresql"> 
   </a>
-  <a href="https://redis.io" target="_blank"> 
-    <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&amp;logo=redis&amp;logoColor=white" alt="redis">
-  </a>
+ 
   <a href="https://www.sqlite.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="sqlite"> 
   </a>
@@ -166,14 +160,8 @@
 <h3 align="center">Connect with me</h3>
 <div style="margin-top:10px" align="center">
   <div>
-    <a href="https://dev.to/example" target="_blank">
-      <img src="https://img.shields.io/badge/DEV.to-0A0A0A.svg?style=for-the-badge&amp;logo=devdotto&amp;logoColor=white" alt="example">
-    </a>
     <a href="https://medium.com/@example" target="_blank">
       <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&amp;logo=medium&amp;logoColor=white" alt="example">
-    </a>
-    <a href="https://codepen.io/@example" target="_blank">
-      <img src="https://img.shields.io/badge/Codepen-000000.svg?style=for-the-badge&amp;logo=codepen&amp;logoColor=white" alt="example">
     </a>
   </div>
   <div>
@@ -188,10 +176,8 @@
     </a>
   </div>
   <div>
-    <a href="https://www.codechef.com/users/example" target="_blank">
-      <img src="https://img.shields.io/badge/Codechef-5B4638.svg?style=for-the-badge&amp;logo=codechef&amp;logoColor=white" alt="example">
-    </a>
-    <a href="https://www.hackerrank.com/example" target="_blank">
+
+  <a href="https://www.hackerrank.com/example" target="_blank">
       <img src="https://img.shields.io/badge/Hackerrank-00EA64.svg?style=for-the-badge&amp;logo=hackerrank&amp;logoColor=black" alt="example">
     </a>
     <a href="https://www.leetcode.com/example" target="_blank">
