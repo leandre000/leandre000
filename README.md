@@ -11,7 +11,7 @@
 <p>👯 I’m looking to collaborate on <strong>Fullstack development</strong></p>
 </li>
 <li>
-<p>🤝 I’m looking for help with <strong>Embedded systems</strong></p>
+<p>🤝 I’m currently working on my <strong>startup</strong></p>
 </li>
 <li>
 <p>👨‍💻 All of my projects are available <a href="github.com/leandre000">@leandre000</a></p>
