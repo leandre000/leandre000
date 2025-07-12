@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Shema Leandre <img width="30" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="👋"></h1>
-<h3 align="center">A passionate Fullstack Developer & Student from Rwanda</h3>
+<h3 align="center">A passionate Fullstack Developer</h3>
 
 ---
 
