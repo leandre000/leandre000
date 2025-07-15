@@ -4,6 +4,7 @@
 
 <h1 align="center">Hi, I'm Shema Leandre <img width="30" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="👋"></h1>
 <h3 align="center">A passionate Fullstack Developer</h3>
+<a href="https://app.daily.dev/leandre_000"><img src="https://api.daily.dev/devcards/v2/0G1u6OPi3kuGhsvps0ON2.png?type=default&r=nj1" width="356" alt="Leandre's Dev Card"/></a>
 
 ---
 
