@@ -10,9 +10,8 @@
 
 ### 🌟 About Me
 
-- 🌱 Currently working on a **Startup**
-- 👯 Looking to collaborate on **Web Development**
-- 🤝 Currently building impactful **Personal Projects**
+- 👯 Looking to collaborate on **Web Development & AI**
+- 🤝 Currently building impactful **impactful solutions & Projects**
 - 👨‍💻 All of my projects are showcased at: [shemaleandre.vercel.app](https://shemaleandre.vercel.app)
 - 💬 Ask me about **Coding & Football ⚽**
 - ⚡ Fun fact: **Coding is a passion, not just a profession**
@@ -20,13 +19,3 @@
 
 
 
-
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leandre000&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=leandre000&theme=material-palenight&hide_border=true" />
-</p>
-
----
