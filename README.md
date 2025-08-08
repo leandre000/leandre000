@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Fullstack Developer</h3>
 
 ### 🌟 About Me
-
-- 👯 Looking to collaborate on **Web Development & AI**
+-CEO & Founder of VersaTech
+- 👯 Looking to collaborate on **Startups**
 - 🤝 Currently building impactful **impactful solutions & Projects**
 - 👨‍💻 All of my projects are showcased at: [shemaleandre.vercel.app](https://shemaleandre.vercel.app)
 - 💬 Ask me about **Coding & Football ⚽**
