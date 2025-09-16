@@ -1,5 +1,5 @@
 
-<h3 align="center">A passionate Fullstack Developer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 ### 🌟 About Me
 - CEO & FOUNDER of Echo Sols Ltd
