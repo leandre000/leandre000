@@ -24,7 +24,7 @@ I thrive on creating innovative products for **teams, clients, and personal grow
 ---
 
 ### 📫 Let’s Connect
-- 📧 Email: **Iamshemmaleandre@gmail.com**  
+- 📧 Email: **Iamshemaleandre@gmail.com**  
 - 📸 Instagram: [@_fliicky_](https://www.instagram.com/_fliicky_/)  
 
 ---
