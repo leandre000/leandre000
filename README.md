@@ -1,5 +1,5 @@
 <h1 align="center">IZERE Shema Leandre </h1>
-<h3 align="center"> Visionary Software Engineer | CEO & Founder of Echo Sols Ltd</h3>
+<h3 align="center">  Software Engineer </h3>
 
 ---
 
